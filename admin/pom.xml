@@ -9,6 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <groupId>work.sm</groupId>
     <artifactId>admin</artifactId>
 
     <properties>

@@ -11,6 +11,8 @@
     <modules>
         <module>admin</module>
         <module>service</module>
+        <module>admin</module>
+        <module>service</module>
     </modules>
 
     <properties>
